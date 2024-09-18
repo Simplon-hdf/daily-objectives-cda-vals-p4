@@ -26,4 +26,4 @@
   - [ ] Tableaux
   - [ ] Liens
 - [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
-- [ ] Rédaction en Markdown du lexique de la promo ainsi que des cheat sheets, travail en groupe (wiki, repos)
+- [ ] Rédaction en Markdown du lexique de la promo ainsi que des cheat sheets (Terminal, Git, Github CLI, Gitflow), travail en groupe en respectant les bests practices et conventions par pull-request uniquement (2 reviews minimums avant merge)
