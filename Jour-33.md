@@ -6,8 +6,8 @@
 
 - [ ] Découverte de PostgreSQL
   - [ ] Identifier les différences entre MySQL et PostgreSQL
-  - [ ] Expliquer les avantages de PostgreSQL
-  - [ ] Choisir les cas d'usage adaptés à PostgreSQL
+  - [ ] Savoir Expliquer les avantages de PostgreSQL
+  - [ ] Savoir Choisir les cas d'usage adaptés à PostgreSQL
 
 - [ ] Installation et Configuration
   - [ ] Installation de PostgreSQL sur la machine
