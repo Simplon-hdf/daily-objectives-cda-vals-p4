@@ -18,6 +18,3 @@
   - [ ] Savoir identifier les DF composées
   - [ ] Savoir identifier les DF transitives
 
-- [ ] Le graphe des dépendances
-  - [ ] Savoir construire un graphe des dépendances
-  - [ ] Savoir valider un graphe des dépendances
