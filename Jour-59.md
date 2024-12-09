@@ -13,4 +13,5 @@
   - [ ] Surcharge
 - [ ] Apprentissage des relations possibles entre les classes
   - [ ] Association
+  - [ ] Agrégation
   - [ ] Composition
